@@ -1,7 +1,7 @@
 # first
-favorite name on Tuesday that you
+This is my 3rd repository file.
 <br>
 
-find out the first place 
+Author- Faikujjaman
 
 
